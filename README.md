@@ -10,7 +10,7 @@ Ejecución
  
  mpiexec -n x ./control2 -f Estacion_inicio Estacion_final
  
- donde X debe ser un número superior a 2 que indica la cantidad de procesadores a usar
+ donde X debe ser un número igual o superior a 2 que indica la cantidad de procesadores a usar
  
  Estacion_inicio es el codigo de la estacion inicial
  
