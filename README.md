@@ -3,7 +3,10 @@
 Ejecución
 
 ./control2 -v
+
  Muestra integrantes del grupo
+ 
+ 
  
  mpiexec -n x ./control2 -f Estacion_inicio Estacion_final
  
